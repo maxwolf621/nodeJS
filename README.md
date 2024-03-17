@@ -2,11 +2,11 @@
 
 What you need
 
-::one:: Prettier extension
+:one: Prettier extension
 
-::two:: A folder named `.vscode` and a file named `settings.json`
+:two: A folder named `.vscode` and a file named `settings.json`
 
-::three::  
+:three: 
 ![alt text](image.png)
 
 `settings.json` after the configuration
